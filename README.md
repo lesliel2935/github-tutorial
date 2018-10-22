@@ -4,7 +4,6 @@ _by Leslie Lopez_
 
 ---
 ## Git vs. GitHub  
-//table 
 * #### Git 
   * Git is like a version control that runs in the command line.
   * It keeps snapshots and is usuall where most of the works gets done 
@@ -17,18 +16,32 @@ _by Leslie Lopez_
 
 ---
 ## Initial Setup
+##### Create Account
+1. Start by creating an account in [GitHub](www.github.com)
+2. Log into your cloud 9
+3. Create a workspace ![create workspace](file:///Users/student/Desktop/Screen%20Shot%202018-10-22%20at%209.27.45%20AM.png)  
 
+##### Creating SSH Key
+1. Log into your GitHub  
+2. 
 
 
 ---
 ## Repository Setup
-
+//Work on slides
 
 
 ---
 ## Workflow & Commands
-
+//Use notes to 
 
 
 ---
 ## Rolling Back Changes
+
+
+
+## Error Handling
+
+
+## Collaboration
