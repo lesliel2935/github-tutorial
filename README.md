@@ -29,16 +29,44 @@ _by Leslie Lopez_
 ---
 ## Repository Setup
 //Work on slides
+* Once have written and edit your information ..   
+  1. Save by clicking command s
+  2. Git add.
+  3. Git commit -m "message"
+  4. Git push -u origin master
 
 
 ---
 ## Workflow & Commands
-//Use notes to 
-
+##### General Command Line
+| Command | Explanation|
+|-----|-----|
+| ls | List the files |
+| cd . .|Goes back a file |
+| mkdir |Makes a file|
+| rmdir |Removes a Directory|
+| rm | Delete a file only if empty|
+|rm rf- |Deletes a file |
+|mv (to rename)|Rename a file created 
+|mv (to move)| To move a file to another place |
+|c9 file|Open Preview to different tab|
+|Clear| Have a clear screen|
+|Up arrow|Look though previous codes|
 
 ---
 ## Rolling Back Changes
-
+##### Git And GitHub
+| Command | Explanation|
+|-----|-----|
+|git init|initialize git
+|rm -rf .git|Uninitialize git
+|git add .|will not add delted or renamed files
+|git add --all| Add all previouse changes
+|git commit -m "message"|Helpfull message of 
+|git remote -v|Makes connection to GitHub|
+|git push -u origin master|Pushed command to GitHub|
+|git status|Shows changes that need to be made|
+|git log| Logs changes
 
 
 ## Error Handling
