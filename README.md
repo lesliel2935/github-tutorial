@@ -49,7 +49,7 @@ _by Leslie Lopez_
 | mkdir |Makes a file|
 | rmdir |Removes a Directory|
 | rm | Delete a file only if empty|
-|rm rf- |Deletes a file |
+|rm rf- |Delete a file completely|
 |mv (to rename)|Rename a file created 
 |mv (to move)| To move a file to another place |
 |c9 file|Open Preview to different tab|
@@ -63,9 +63,9 @@ _by Leslie Lopez_
 |-----|-----|
 |git init|initialize git
 |rm -rf .git|Uninitialize git
-|git add .|will not add delted or renamed files
-|git add --all| Add all previouse changes
-|git commit -m "message"|Helpfull message of 
+|git add .|will not add deleted or renamed files
+|git add --all| Add all previous changes
+|git commit -m "message"|To commit a file with a helpful message 
 |git remote -v|Makes connection to GitHub|
 |git push -u origin master|Pushed command to GitHub|
 |git status|Shows changes that need to be made|
