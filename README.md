@@ -25,7 +25,7 @@ _by Leslie Lopez_
 1. Log into your GitHub  
 2. Create a new repository
 3. Have same name as you have in c9
-4. Make sure its in ssh and not https(Add screenshots)
+4. Make sure its in ssh and not https(Add screenshots)  
 5.Create and start coding
 
 
