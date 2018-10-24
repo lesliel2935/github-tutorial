@@ -21,6 +21,7 @@ _by Leslie Lopez_
 2. Log into your cloud 9
 3. Create a workspace ![create workspace](file:///Users/student/Desktop/Screen%20Shot%202018-10-22%20at%209.27.45%20AM.png)  
 
+GO TO SLIDES "FIRST REPO"
 ##### Creating SSH Key
 1. Log into your GitHub  
 2. Create a new repository
@@ -37,7 +38,7 @@ _by Leslie Lopez_
   2. Git add.
   3. Git commit -m "message"
   4. Git push -u origin master
-
+EXPLAIN WHAT EACH COMMAND DO 
 
 ---
 ## Workflow & Commands
@@ -49,27 +50,27 @@ _by Leslie Lopez_
 | mkdir |Makes a file|
 | rmdir |Removes a Directory|
 | rm | Delete a file only if empty|
-|rm rf- |Deletes a file |
+|rm rf- |Delete a file completely|
 |mv (to rename)|Rename a file created 
 |mv (to move)| To move a file to another place |
 |c9 file|Open Preview to different tab|
 |Clear| Have a clear screen|
 |Up arrow|Look though previous codes|
-
----
-## Rolling Back Changes
 ##### Git And GitHub
 | Command | Explanation|
 |-----|-----|
 |git init|initialize git
 |rm -rf .git|Uninitialize git
-|git add .|will not add delted or renamed files
-|git add --all| Add all previouse changes
-|git commit -m "message"|Helpfull message of 
+|git add .|will not add deleted or renamed files
+|git add --all| Add all previous changes
+|git commit -m "message"|To commit a file with a helpful message 
 |git remote -v|Makes connection to GitHub|
 |git push -u origin master|Pushed command to GitHub|
 |git status|Shows changes that need to be made|
 |git log| Logs changes
+---
+## Rolling Back Changes
+UNDOING COMMITS ,ADD AND PUSH
 
 
 ## Error Handling
