@@ -52,29 +52,29 @@ EXPLAIN WHAT EACH COMMAND DO
 ##### General Command Line
 | Command | Explanation|
 |-----|-----|
-| `ls` | List the files |
-| `cd . .`| Goes back a file |
-| `mkdir` | Makes a file |
-| `rmdir` | Removes a Directory |
-| `rm` | Delete a file only if empty |
-| `rm rf-` | Delete a file completely |
-| `mv` (to rename) | Rename a file created |
-| `mv` (to move) | To move a file to another place |
-| `c9 file`| Open Preview to different tab|
-| `clear`| Have a clear screen |
+| ` ls` | List the files |
+| ` cd . .`| Goes back a file |
+| ` mkdir` | Makes a file |
+| ` rmdir` | Removes a Directory |
+| ` rm` | Delete a file only if empty |
+| ` rm rf-` | Delete a file completely |
+| ` mv` (to rename) | Rename a file created |
+| ` mv` (to move) | To move a file to another place |
+| ` c9 file`| Open Preview to different tab|
+| ` clear`| Have a clear screen |
 | Up arrow | Look though previous codes|
 ##### Git And GitHub
 | Command | Explanation|
 | ----- | ----- |
-| `git init` | initialize git |
-| `rm -rf .git` | Uninitialize git |
-| `git add . ` | will not add deleted or renamed files |
-| `git add --all`| Add all previous changes |
-| `git commit -m` "message"| To commit a file with a helpful message |
-| `git remote -v`| Makes connection to GitHub |
-| `git push -u origin master`| Pushed command to GitHub |
-| `git status`| Shows changes that need to be made |
-| `git log`| Logs changes
+| ` git init` | initialize git |
+| ` rm -rf .git` | Uninitialize git |
+| ` git add . ` | will not add deleted or renamed files |
+| ` git add --all`| Add all previous changes |
+| ` git commit -m` "message"| To commit a file with a helpful message |
+| ` git remote -v`| Makes connection to GitHub |
+| ` git push -u origin master`| Pushed command to GitHub |
+| ` git status`| Shows changes that need to be made |
+| ` git log`| Logs changes
 ---
 ## Rolling Back Changes
 UNDOING COMMITS ,ADD AND PUSH
