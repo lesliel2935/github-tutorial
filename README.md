@@ -19,14 +19,21 @@ _by Leslie Lopez_
 ##### Create Account
 1. Start by creating an account in [GitHub](www.github.com)
 2. Log into your cloud 9
-3. Create a workspace ![create workspace](file:///Users/student/Desktop/Screen%20Shot%202018-10-22%20at%209.27.45%20AM.png)  
+3. Create a workspace 
+##### SSH key  
+1. Log into your GitHub account
+2. Go to top right corner and click on the icon then settings
+3. You will see a SSH and GPG key on the left bar  
+      4. Click on the SSH key  
+1. Go to [c9.io](www.c9.io) 
+2. 
 
 GO TO SLIDES "FIRST REPO"
 ##### Creating SSH Key
 1. Log into your GitHub  
 2. Create a new repository
 3. Have same name as you have in c9
-4. Make sure its in ssh and not https(Add screenshots)  
+4. Make sure its in ssh and not https  
 5.Create and start coding
 
 
