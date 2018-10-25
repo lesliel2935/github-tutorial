@@ -62,7 +62,7 @@ EXPLAIN WHAT EACH COMMAND DO
 | `mv` (to move) | To move a file to another place |
 | `c9 file`| Open Preview to different tab|
 | `clear`| Have a clear screen |
-| Up arro | Look though previous codes|
+| Up arrow | Look though previous codes|
 ##### Git And GitHub
 | Command | Explanation|
 | ----- | ----- |
