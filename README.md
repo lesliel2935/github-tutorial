@@ -26,26 +26,34 @@ _by Leslie Lopez_
 3. You will see a SSH and GPG key on the left bar  
       4. Click on the SSH key  
 1. Go to [c9.io](www.c9.io) 
-2. 
-
-GO TO SLIDES "FIRST REPO"
-##### Creating SSH Key
-1. Log into your GitHub  
-2. Create a new repository
-3. Have same name as you have in c9
-4. Make sure its in ssh and not https  
-5.Create and start coding
-
+2. Click the gear icon on the top right
+3. Choose SSH and copy the whole 2nd link
+4. paste the linnk to github
+    5.Click on the SSh key
+1. Go back to c9 and open workspace
+2. type `ssh -T git@github.com `
 
 ---
 ## Repository Setup
-//Work on slides
-* Once have written and edit your information ..   
-  1. Save by clicking command s
-  2. Git add.
-  3. Git commit -m "message"
-  4. Git push -u origin master
-EXPLAIN WHAT EACH COMMAND DO 
+
+* **When creating a folder**  
+1.`cd folder`( this makes you go into the folder)  
+2.Go into the file and `git init`(this initialize the repo)  
+
+* **Remote Repo in GitHub**  
+1.Go to [github.com](www.github.com)  
+2.Click + button on top right  
+3.Choose _New Repository_  
+4.Name the repo the same one you wrote on your c9  
+5.Press _Create Repository_  
+
+* **Add, Commit, and Push**  
+  1. Clicking command s (This is to save your work)
+  2. Git add. (This is to add your work)
+  3. Git commit -m "message" (This add a reminder to what you did in the command line)
+  4. Git push -u origin master (You type this when pushing to git hub got the first time)
+  5. git push (After the first time of pushing use this command for the rest of the pushing to github)
+
 
 ---
 ## Workflow & Commands
@@ -81,7 +89,13 @@ EXPLAIN WHAT EACH COMMAND DO
 
 ---
 ## Rolling Back Changes
-UNDOING COMMITS ,ADD AND PUSH
+
+* **Undoing Add, Commit, and Push**  
+  1.`git checkout file` (undoing edits)  
+  2.`git reset HEAD file` (Undoing Add)  
+  3.`git reset HEAD~1` (Undoing Add from Push)  
+  4.`git reset --hard HEAD~1` (Undoing edit from push)  
+  5.`git reser --soft HEAD~1` (Undoing commits)
 
 
 ## Error Handling
