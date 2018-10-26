@@ -25,7 +25,7 @@ _by Leslie Lopez_
 1. Log into your GitHub account
 2. Go to top right corner and click on the icon then settings
 3. You will see a SSH and GPG key on the left bar  
-      4. Click on the SSH key  
+      * Click on the SSH key  
 1. Go to [c9.io](www.c9.io) 
 2. Click the gear icon on the top right
 3. Choose SSH and copy the whole 2nd link
