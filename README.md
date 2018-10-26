@@ -98,8 +98,26 @@ _by Leslie Lopez_
   4.`git reset --hard HEAD~1` (Undoing edit from push)  
   5.`git reser --soft HEAD~1` (Undoing commits)
 
-
-## Error Handling
-
-
 ## Collaboration
+**Cloning**  
+1.Go to [c9.io](www.c9,io)  
+2.Open workspace  
+3.In command line make sure you are in workspace  
+4.Go to github of the other persons repo  
+5.Click on green button that say > clone or download  
+6.Make sure that link is on **SSH** not HTTPS  
+7.Copy link `git@github.com:_username_/_repo name_.git`  
+8.Type `git clone <copyed link>`
+
+**Forking**  
+1.Go to [c9.io](www.c9,io)  
+2.Open workspace     
+3.In command line make sure you are in workspace  
+4.Go to github of the other persons repo  
+5.Click on _Forking_ at top right corner  
+6.Click on green button that say > clone or download  
+7.Make sure that link is on **SSH** not HTTPS  
+8.Copy link `git@github.com:_username_/_repo name_.git`   
+9.cd into repo  
+10.start your work
+
