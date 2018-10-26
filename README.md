@@ -64,6 +64,7 @@ EXPLAIN WHAT EACH COMMAND DO
 | ` c9 file`| Open Preview to different tab|
 | ` clear`| Have a clear screen |
 | Up arrow | Look though previous codes|
+
 ##### Git And GitHub
 
 | Command | Explanation|
@@ -76,7 +77,8 @@ EXPLAIN WHAT EACH COMMAND DO
 | ` git remote -v`| Makes connection to GitHub |
 | ` git push -u origin master`| Pushed command to GitHub |
 | ` git status`| Shows changes that need to be made |
-| ` git log`| Logs changes
+| ` git log`| Logs changes |
+
 ---
 ## Rolling Back Changes
 UNDOING COMMITS ,ADD AND PUSH
