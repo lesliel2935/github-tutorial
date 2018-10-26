@@ -52,7 +52,7 @@ EXPLAIN WHAT EACH COMMAND DO
 ##### General Command Line
 
 | Command | Explanation|
-|-----|-----|
+|:---:|:---:|
 | ` ls` | List the files |
 | ` cd . .`| Goes back a file |
 | ` mkdir` | Makes a file |
@@ -68,7 +68,7 @@ EXPLAIN WHAT EACH COMMAND DO
 ##### Git And GitHub
 
 | Command | Explanation|
-| ----- | ----- |
+| :---: | :---: |
 | ` git init` | initialize git |
 | ` rm -rf .git` | Uninitialize git |
 | ` git add . ` | will not add deleted or renamed files |
