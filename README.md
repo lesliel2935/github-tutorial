@@ -50,6 +50,7 @@ EXPLAIN WHAT EACH COMMAND DO
 ---
 ## Workflow & Commands
 ##### General Command Line
+
 | Command | Explanation|
 |-----|-----|
 | ` ls` | List the files |
@@ -64,6 +65,7 @@ EXPLAIN WHAT EACH COMMAND DO
 | ` clear`| Have a clear screen |
 | Up arrow | Look though previous codes|
 ##### Git And GitHub
+
 | Command | Explanation|
 | ----- | ----- |
 | ` git init` | initialize git |
